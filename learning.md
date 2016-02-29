@@ -35,11 +35,17 @@ Git支持多种协议，包括https，但通过ssh支持的原生git协议速度
 另一种方式是用git stash pop，恢复的同时把stash内容也删了
 你可以多次stash，恢复的时候，先用git stash list查看，然后恢复指定的stash，用命令：
 
-多人协作：
-	
+### 多人协作：
+
+远程仓库的默认名称是origin
 
 
-
+`
+void main(String[] args)
+{
+	System.out.println("hello World!");
+}
+`
 
 
 
